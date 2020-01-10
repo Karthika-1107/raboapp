@@ -1,5 +1,5 @@
-#RaboBank app
-RaboBankapp transaction statement processor
+#
+RaboBank app - transaction statement processor
 
 1. The raboapp application used technologies are java8, springboot, spring rest service, spring aop, junit with springbootstartertest
 2. The allowed mime types  configured in property file so that we can configure for including any other file here
