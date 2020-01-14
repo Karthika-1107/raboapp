@@ -10,6 +10,6 @@ RaboBank app - transaction statement processor
 I used React js for FE. Since it is not mentioned for me I did not commit it here. Please let us know if it required i will commit it.
 
 Steps to Test the application:
-1. Run RaboApp.java . The springboot root configuration class
+1. Run the springboot root configuration class RaboApp.java . 
 2. Directly hit the rest url "/raboapp/stmtprocessor/validateStatement" in postman with uploaded document as input
 3. It is also Possible to test through junit test cases also.
