@@ -17,5 +17,4 @@ public class Transactions {
 	public void setTransactions(List<TransactionDetail> transactions) {
 		this.transactions = transactions;
 	}
-
 }
